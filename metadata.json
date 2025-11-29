@@ -1,0 +1,5 @@
+{
+  "name": "StyleMorph",
+  "description": "Upload existing HTML pages and restyle them instantly with a global CSS theme generated from your text prompt.",
+  "requestFramePermissions": []
+}
