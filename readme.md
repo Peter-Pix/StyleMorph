@@ -1,11 +1,11 @@
-# CSStiller - AI Website Restyler 🎨
+# StyleMorph - AI Website Restyler 🎨
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
-**CSStiller** is a powerful frontend development tool that uses Artificial Intelligence to instantly modernize and restyle legacy HTML websites. Simply upload your HTML files, describe your desired look (e.g., "Cyberpunk Neon", "Corporate Minimal"), and let the AI generate a global CSS theme and rewrite your HTML structure to match.
+**StyleMorph** is a powerful frontend development tool that uses Artificial Intelligence to instantly modernize and restyle legacy HTML websites. Simply upload your HTML files, describe your desired look (e.g., "Cyberpunk Neon", "Corporate Minimal"), and let the AI generate a global CSS theme and rewrite your HTML structure to match.
 
 ## ✨ Features
 
@@ -39,8 +39,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Peter-Pix/CSStiller.git
-   cd CSStiller
+   git clone https://github.com/Peter-Pix/StyleMorph.git
+   cd StyleMorph
    ```
 
 2. **Install dependencies**
@@ -70,7 +70,7 @@ To use local models instead of Google Gemini:
    ollama pull llama3
    ```
 3. Start the Ollama server. Ensure it is allowing cross-origin requests if necessary, though the app connects to `http://127.0.0.1:11434` by default.
-4. Open CSStiller, click the model dropdown in the header, and your local models will appear under the **"Local (Ollama)"** group.
+4. Open StyleMorph, click the model dropdown in the header, and your local models will appear under the **"Local (Ollama)"** group.
 
 ## 🎮 Usage
 
